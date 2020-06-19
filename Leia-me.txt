@@ -1,0 +1,18 @@
+Leia-me
+
+
+Banco + Programa
+-------------------------------------------------
+Executar no seu banco de dados o arquivo
+PI\Create database and populate\DML_COD.sql
+*** Codificação do banco de dados ***
+
+Arquivo
+PI\Petshop\Conexao.cs
+***Ja esta apontando pata a codificação acima***
+-------------------------------------------------
+
+Pegar um CPF Valido no Banco para executar novas OS
+Ex: 42387883896 - Edney
+
+Caso duvias olhas Video
